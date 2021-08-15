@@ -1,0 +1,29 @@
+＊HarmVirtue
+( 守る or 安全 or 無事 or 無難 or 落ち着く or 防衛 or 確実 or 慎重 or 平和 or 秩序 or 安心 or 治安 or 静けさ or 平穏 or 和平 or 静か or 穏やか or 同情 or 哀れ or 情け深い or 共感 or 感情移入 or 思いやる or 同感 or 保護 or 世話 or 介護 or 優しい or 防護 or 親身 or 防ぐ or 庇護 or 擁護 or かばう or 盾 or 後ろ盾 or 友情 or 友好 or 親睦 or 親善 or 保全 or 防御 or 保安 or 恩恵 or 守備 or 守り or 用心 or 後見人 or 守護 or 保つ or 撃退 )
+
+＊HarmVice
+( 損害 or 害 or 有害 or 傷害 or 危害 or 害悪 or 傷つく or 傷つける or 痛み or 悩む or 災害 or 苦しい or 苦労 or 苦痛 or 病む or 患う or 苦難 or 戦争 or 戦う or 戦い or 争う or 争い or 軍事 or 闘争 or 将軍 or 戦闘 or 合戦 or 戦士 or 格闘 or 暴力 or 乱暴 or 猛威 or 傷 or 痛む or 痛める or 障る or 殺す or 自殺 or 殺し屋 or 殺人 or 殺害 or 屠殺 or 危急 or 危機 or 虐待 or 残酷 or 冷酷 or 残忍 or 残虐 or 無慈悲 or 野蛮 or 蛮行 or 獣性 or 悪口 or 弊害 or 乱用 or 悪態 or 酷使 or 被害 or 損傷 or 崩壊 or 破壊 or 滅びる or 破滅 or 滅亡 or 荒廃 or 破産 or 没落 or 荒らす or 略奪 or 砕く or 砕ける or 制圧 or 鎮圧 or 粉砕 or 襲う or 攻撃 or 非難 or 襲撃 or 滅ぼす or 打ち砕く or 駆除 or 見捨てる or 放棄 or 奔放 or 自暴自棄 or はねつける or 損なう or 負傷 or 痛手 or 侮辱 or 裏切る or 加害 )
+
+＊FairnessVirtue
+( フェア or 適正 or 公正 or 公平 or 並ぶ or 等しい or 同等 or 平等 or 対等 or 平衡 or 正義 or 正当 or 妥当 or 弁明 or もっとも or 報いる or 相互 or 返礼 or 相反 or 返報 or お返し or 公明正大 or 不偏 or 一様 or 均等 or 均一 or 等価物 or 寛容 or 寛大 or バランス or 調和 or 均衡 or 相殺 or 釣り合う or 釣り合い or 均整 or 正直 or 率直 or 誠実 or 実直 or 忠実 or 正す or 是正 )
+
+＊FairnessVice
+( 損なう or 不当 or 不正 or 不公平 or 不公正 or 卑怯 or 不穏当 or 偏見 or 先入観 or 偏り or バイアス or 偏向 or 偏重 or 先入主 or 不法 or 偏屈 or 差別 or 分け隔て or 不均衡 or 不釣り合い or 侵害 or 不利益 or 優先 or 先取権 or 特恵 or ひいき or 偏愛 or 情実 or 隔離 or 排除 or 締め出す or 無視 or 不誠実 or 搾取 )
+
+＊IngroupVirtue
+( 友情 or 友好 or 親睦 or 親善 or 共に or 互いに or 国 or 国民 or 国家 or 民族 or 国籍 or 部族 or 種族 or 同胞 or 愛国 or 国有 or 国営 or 自国 or 祖国 or 母国 or 故国 or ホームランド or 家族 or 世帯 or 一家 or 一族 or 家系 or 同族 or 一門 or グループ or 団体 or 集団 or 群れ or 連合 or 忠実 or 義理 or 忠誠 or 勤王 or 忠義 or 忠節 or 志士 or 地方自治体 or コミューン or 生活共同体 or 社会 or 共通 or 地域社会 or 群 or 共有 or 類似 or 公衆 or 共通性 or コミュニティ or 共用 or 群落 or 共産 or 仲間 or 同志 or 友愛 or 僚友 or 幹部 or 中核 or ジョイント or 接合 or つなぐ or 一致 or 和合 or 結合 or 合併 or 提携 or 結びつける or 結びつく or 同僚 or 組合 or 共同 or 親交 or 同士 or 会 or 協会 or ギルド or 連帯 or 結束 or 団結 or ファン or 信心 or 献身 or 帰依 or 一部 or メンバー or 社員 or 会員 or 議員 or 派閥 or 徒党 or 味方 or 同盟国 or 盟友 or 部内者 or 消息通 )
+
+＊IngroupVice
+( 分離 or 引き離す or 隔離 or 外国人 or 敵 or 漏らす or 背く or 裏切る or 密告 or 売国奴 or だます or 謀反 or 反逆 or 不誠実 or 背信 or 内通 or 不忠 or 不義 or 個人 or 個性 or 利己主義 or 個別化 or 独特 or 変節 or 背教 or 脱党 or 逃亡 or 脱走 or 欺く or 詐欺 or ぺてん or スパイ or 密偵 or 諜報部員 or 隠退 or テロ or 恐怖政治 or 移民 or 移住 or 入植 or 入国管理 or 無差別 )
+
+＊AuthorityVirtue
+( 将軍 or 祖国 or 母国 or 故国 or 忠実 or 義理 or 忠誠 or 勤王 or 忠義 or 忠節 or 従う or 遵奉 or 従順 or 服従 or 忠順 or 素直 or 義務 or 任務 or 職務 or 敬意 or 務め or 規定 or 法律 or 原則 or 法 or ルール or 正しい or 正しく or 合法 or 認可 or 適法 or 公認 or 本分 or 勲章 or 信用 or 名誉 or 尊敬 or 光栄 or 名声 or 儀礼 or 自尊心 or 立派 or 表彰 or 重んじる or 尊重 or 敬白 or 定める or 整える or 命令 or 指示 or 体制 or 規則 or 階級 or 師 or 祖先 or 長老 or 創始者 or 栄光 or 母親らしい or 伝統 or 伝説 or 流儀 or 慣例 or しきたり or 階層 or 高官 or ヒエラルキー or 権限 or 権力 or 権威 or 当局 or 大家 or 威厳 or 官庁 or 公社 or 認める or 許す or 許可 or 許し or 許諾 or 地位 or 資格 or 身分 or 威信 or 順位 or ランキング or 格付け or 等級 or 指導 or リーダー or 指揮 or 主将 or 首領 or レベル or クラス or ブルジョ or 資本家階級 or 有産階級 or 社会的地位 or カースト or 承諾 or 追従 or 応諾 or 率いる or 支配 or 優位 or 主権 or 覇権 or 最高位 or 至上 or 監督 or 管理 or 規制 or 謙虚 or 屈する or 降伏 or 甘受 or 尽くす or 尊い or 敬う or 敬愛 or 崇拝 or 尊ぶ or 敬慕 or 応じる or 懲罰 or 礼儀 or 見せしめ or 正す or 是正 )
+
+＊AuthorityVice
+( 侮辱 or 不法 or 背く or 密告 or 謀反 or 反逆 or 挑戦 or 反抗 or 侮る or 傲慢 or 抵抗 or 反発 or 反乱 or 暴動 or 異議 or 不同意 or 倒す or 転覆 or 打倒 or 失礼 or 無礼 or 違反 or 反則 or 不服 or 不従順 or 扇動 or アジテーター or アジる or 違法 or 法律違反 or 非合法 or 無法 or 暴徒 or 挑む or 亡命 or 離反 or 異教 or 異端 or 妨害 or 反対 or 抗議 or 拒む or 告発 or 糾弾 or 弾劾 or 忠告 or 諫言 or 騒乱 or 騒擾 or 暴民 or 拒否 or 拒絶 )
+
+＊PurityVirtue
+( 誠実 or 祈り or 信心 or 正しい or 正しく or 神父 or 高僧 or 教主 or 謙虚 or 牧師 or 聖職者 or 崇拝 or 敬虔 or 孝行 or 敬神 or 孝心 or 純粋 or 清潔 or 純正 or 清浄 or 潔白 or 清い or 純血 or きれい or 清らか or 洗う or 掃除 or 洗濯 or 清掃 or 清める or 健全 or 消毒 or 殺菌 or 無菌 or 滅菌 or 神聖 or 不可侵 or 貞操 or 清純 or 純潔 or 上品 or 貞節 or 聖なる or 聖 or 聖人 or 君子 or 聖者 or 気高い or 聖徒 or 脱俗 or 禁欲 or 節制 or 乙女 or 処女 or 聖母 or 新鮮 or 童貞 or 厳格 or 簡素 or 質素 or 厳粛 or 高潔 or 清廉 or 控えめ or 謙遜 or 禁酒 or 透明 or 明快 or 無傷 or 少女 or 初々しい or 優雅 or 精巧 or 礼儀 or 作法 or 体裁 or 品位 or あどけない or 無邪気 or 真新しい or 素朴 or 教会 or 礼拝 or キリスト教 or 聖堂 or 会衆 or 教派 or 聖職 or 正典 or 教え )
+
+＊PurityVice
+( 傷つく or 傷つける or 傷 or 駆除 or 損なう or 背く or 不誠実 or 不義 or 背教 or 不貞 or むかつく or 嫌悪 or 腐敗 or 堕落 or 悪行 or 病気 or 疾患 or 不健全 or 病弊 or 病的 or 汚れ or 不潔 or 不浄 or 穢れ or 感染 or 悪影響 or 伝染 or 下品 or 見苦しい or 不作法 or 無作法 or 罪 or 過失 or 罪悪 or 罪深い or 罪作り or 罪人 or 罪業 or 尻軽女 or 汚い or 糞 or スキャンダル or くそ or クソ or ごみ or 不快 or 垢 or 不遜 or 不敬 or 不孝 or 不信心 or 不敬虔 or 冒涜 or 口汚い or 粗末 or 追い払う or 拒否 or 反感 or 拒絶 or 病人 or 吐き気 or 青白い or 弱々しい or 異常 or 嘔吐物 or 乱雑 or 乱交 or 淫行 or 不倫 or 姦通 or 姦夫 or 姦婦 or 汚染 or 汚す or 浮浪 or 放浪 or 浮気 or 売春 or 浪費 or 乱費 or 汚物 or 卑猥 or 汚名 or 不名誉 or 汚点 or 邪悪 or 意地悪 or 変質者 )
